@@ -12,7 +12,3 @@ const Nav = (props) => (
 export default Nav;
 
 
-// Nav brand: Google Books
-// Links: Search Saved
-// Note: Nav and Navbar from react-bootstrap crashes the browser
-// Nav from week 21 activity 05
