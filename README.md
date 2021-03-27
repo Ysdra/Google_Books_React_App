@@ -2,7 +2,7 @@
 
 ## Live Heroku Web Page: https://fast-wave-11191.herokuapp.com/
 
-## Application Live Page: ![Google Books React App](https://github.com/Ysdra/Employee_Directory/blob/main/Employee%20Directory.PNG)
+## Application Live Page: ![Google Books React App](https://github.com/Ysdra/Google_Books_React_App/blob/main/Google_Books_React.gif)
 
 
 ## App Description:
