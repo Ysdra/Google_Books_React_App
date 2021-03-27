@@ -7,7 +7,7 @@ import API from "../utils/API";
 import BookCard from "../components/BookCard";
 
 const Search = () => {
-    const [searchTerm, setSearchTerm] = useState("Austin, Texas"); 
+    const [searchTerm, setSearchTerm] = useState("Web Development"); 
         // enter what I want to load on page here - initializing starting searchTerm
     const [books, setBooks] = useState([]);
 
