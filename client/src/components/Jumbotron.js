@@ -6,8 +6,8 @@ import Jumbotron from 'react-bootstrap/Jumbotron';
 const Jumbo = (props) => (
     <Jumbotron fluid className="text-center">
         <Container>
-            <h1>(React) Google Books Search</h1>
-            <p>Search for and save books of interest!</p>
+            <h1>Google Books</h1>
+            <p>Search & Save Books</p>
         </Container>
     </Jumbotron>
 );
