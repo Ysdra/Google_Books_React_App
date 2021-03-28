@@ -18,7 +18,7 @@ This React app relies on Axios, Bootstrap, Express, Mongoose, React, React-Dom, 
 1. Please `GIT clone` this repository locally to your machine
 2. Install node.js locally to your machine
 3. Open a git bash terminal and enter the command `npm install` to install the necessary node dependencies 
-4. Type into a git bash terminal `npm start`
+4. Type into the git bash terminal `npm start`
 
 
 ## License 
