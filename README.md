@@ -3,7 +3,7 @@
 ## Live Heroku Web Page: [Deployed Application](https://fast-wave-11191.herokuapp.com/ "Heroku Link") 
 
 
-## Application Live Page: ![Google Books React App](https://github.com/Ysdra/Google_Books_React_App/blob/main/Google_Books_React.gif)
+## Live Application Page: ![Google Books React App](https://github.com/Ysdra/Google_Books_React_App/blob/main/Google_Books_React.gif)
 
 
 ## App Description:
